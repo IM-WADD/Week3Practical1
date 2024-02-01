@@ -1,4 +1,4 @@
-# Week 3 Practical 1 - Responsive layouts & Flexbox
+# Practical 5 (Week 3) - Responsive layouts & Flexbox
 
 In this practical you will first get familiar with using Flexbox before moving on to implementation of a responsive layout.
 
