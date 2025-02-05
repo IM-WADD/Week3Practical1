@@ -48,7 +48,7 @@ Create further customizations if they will improve the layout on the smallest de
 If you finish early, add go back to the portfolio you have worked on in previous practicals and check how it appears on small devices. Add media queries to adjust the layout as needed.
 
 ## York University Press medium (tablet) device layout
-![The York University Press web page optimised for medium sized devices](https://github.com/IM-WADD/Week3Practical1/assets/tablet.png)
+![The York University Press web page optimised for medium sized devices](https://github.com/IM-WADD/Week3Practical1/blob/main/assets/tablet.png)
 
 ## York University Press small (phone) device layout
-![The York University Press web page optimised for small sized devices](https://github.com/IM-WADD/Week3Practical1/assets/phone.png)
+![The York University Press web page optimised for small sized devices](https://github.com/IM-WADD/Week3Practical1/blob/main/assets/phone.png)
