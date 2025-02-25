@@ -1,6 +1,6 @@
 # Week 3 Practical 1 - Responsive layouts with media queries
 
-In this practical you will implement a responive layout using media queries.
+In this practical you will implement a responsive layout using media queries.
 
 Make a new copy of the York University Press website you created last practical. In this stage, you will add media queries to the CSS to make the site layout work for small and medium-sized devices. Screenshots of my media query layouts are shown at the bottom of this document.
 
